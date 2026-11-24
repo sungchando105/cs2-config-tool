@@ -1,0 +1,23 @@
+{
+  "module": "cs2-config-tool",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "configs": {
+      "enabled": true
+    },
+    "tuner": {
+      "enabled": true
+    },
+    "monitor": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}

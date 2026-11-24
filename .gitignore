@@ -1,0 +1,18 @@
+# build
+build/
+dist/
+*.o
+*.obj
+
+# runtime
+*.log
+runtime/data/
+
+# env & os
+.env
+.DS_Store
+Thumbs.db
+
+# editors
+.vscode/
+.idea/
